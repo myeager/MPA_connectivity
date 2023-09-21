@@ -1,4 +1,5 @@
 # MPA_connectivity
 
-![Alt text] (https://github.com/myeager/MPA_connectivity/Work_flow.png?raw=true)
+![Alt text] (https://github.com/myeager/MPA_connectivity/Work_flow.png)
+![Alt text] ("Work_flow.png")
 
